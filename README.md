@@ -1,6 +1,9 @@
 # Hi 👋, I'm Darren Timotius
 ### 💫 About Me:
-🔭 I’m currently working on learning and learning<br>🌱 I’m currently learning Python<br>💬 Ask me about Node.js<br>⚡ Fun fact I am an Audiophile
+🔭 I’m currently working on **learning and learning**
+🌱 I’m currently learning **Python**
+💬 Ask me about **Node.js**
+⚡ Fun fact **I am an Audiophile**
 
 
 ### 💻 Tech Stack:
