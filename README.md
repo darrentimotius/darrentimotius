@@ -54,7 +54,7 @@
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br/>
-[![GitHub Streak](https://github-readme-streak-stats-nu-cyan.vercel.app?user=darrentimotius&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://github-readme-streak-stats-nu-cyan.vercel.app?user=darrentimotius&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ---
