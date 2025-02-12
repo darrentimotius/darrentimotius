@@ -53,7 +53,7 @@
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br/>
-![GitHub Stats](https://streak-stats.demolab.com?user=darrentimotius&theme=tokyonight&hide_border=true)<br/>
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=darrentimotius&theme=tokyonight&hide_border=true)<br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ### 🏆 GitHub Trophies
