@@ -16,6 +16,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=darrentimotius&icon=0&color=0)](https://visitcount.itsvg.in)
 
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.2.0
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
