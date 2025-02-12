@@ -1,4 +1,4 @@
-# Hi 👋, I'm Darren Timotius
+# Hi 👋, I'm Darren Timotius Raphael
 ### 💫 About Me:
 🔭 I’m currently working on **learning and learning** <br>
 🌱 I’m currently learning **Python**<br>
