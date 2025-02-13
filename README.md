@@ -53,9 +53,11 @@
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 
 ### 📊 GitHub Stats:
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 ![](https://github-readme-stats.vercel.app/api?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com?user=darrentimotius&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com?user=darrentimotius&theme=tokyonight&hide_border=true)<br?>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=darrentimotius&icon=0&color=0)](https://visitcount.itsvg.in)
