@@ -57,7 +57,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 </a>
 <a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrentimotius&theme=tokyonight&langs_count=8&show_icons=true&hide_border=true&layout=compact&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darrentimotius&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=32" />
 </a>
 
 ---
