@@ -59,7 +59,8 @@
 <a href="https://github.com/darrentimotius/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </a>
-![](https://github-readme-streak-stats.herokuapp.com?user=darrentimotius&theme=tokyonight&hide_border=true)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com?user=darrentimotius&theme=tokyonight&hide_border=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=darrentimotius&icon=0&color=0)](https://visitcount.itsvg.in)
