@@ -1,4 +1,4 @@
-# Hi 👋, I'm Darren Timotius Raphael
+ # Hi 👋, I'm Darren Timotius Raphael
 ### 💫 About Me:
 🔭 I’m currently **studying at university** <br>
 🌱 I’m currently learning **Python**<br>
@@ -53,13 +53,8 @@
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 
 ### 📊 GitHub Stats:
-<a href="https://github.com/darrentimotius/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-</a>
-<a href="https://github.com/darrentimotius/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
-</a>
-
+![](https://github-readme-stats.vercel.app/api?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com?user=darrentimotius&theme=tokyonight&hide_border=true)
 
 ---
