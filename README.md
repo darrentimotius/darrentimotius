@@ -6,10 +6,10 @@
 <a href="https://open.spotify.com/user/21dzyd2yv7ivgcvkm4ti6yadq?si=3c47f305e29c4233" target="_blank"><img alt="" src="https://img.shields.io/badge/Spotify-000?style=for-the-badge&logo=Spotify&logoColor=1ED760" style="vertical-align:center" /></a></p>
 
 ## 💫 About Me:
-🔭 I’m currently **studying at university** <br>
-🌱 I’m currently learning **Python**<br>
-💬 Ask me about **Node.js**<br>
-⚡ Fun fact **I am an Audiophile**<br>
+🔭 I’m currently **studying at university**</br>
+🌱 I’m currently learning **Python**</br>
+💬 Ask me about **Node.js**</br>
+⚡ Fun fact **I am an Audiophile**</br>
 
 
 ## 💻 Tech Stack:
@@ -60,7 +60,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&card_height=195)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&card_height=195)</br>
 ![](https://github-readme-streak-stats.herokuapp.com?user=darrentimotius&theme=tokyonight&hide_border=true)
 
 ---
