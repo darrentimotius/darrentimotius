@@ -1,9 +1,9 @@
 <h1 align="center"> Hi 👋🏻, I'm Darren Timotius Raphael </br> 
 </h1>
 <p align="center">
-<a href="https://linkedin.com/in/darrentimotius" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=LinkedIn&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://instagram.com/darrentimotius" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
-<a href="https://open.spotify.com/user/21dzyd2yv7ivgcvkm4ti6yadq?si=3c47f305e29c4233" target="_blank"><img alt="" src="https://img.shields.io/badge/Spotify-000?style=for-the-badge&logo=Spotify&logoColor=E4405F" style="vertical-align:center" /></a></p>
+<a href="https://linkedin.com/in/darrentimotius" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF" style="vertical-align:center" /></a>
+<a href="https://instagram.com/darrentimotius" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=FFFFFF" style="vertical-align:center" /></a>
+<a href="https://open.spotify.com/user/21dzyd2yv7ivgcvkm4ti6yadq?si=3c47f305e29c4233" target="_blank"><img alt="" src="https://img.shields.io/badge/Spotify-000?style=for-the-badge&logo=Spotify&logoColor=FFFFFF" style="vertical-align:center" /></a></p>
 
 ## 💫 About Me:
 🔭 I’m currently **studying at university** <br>
