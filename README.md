@@ -53,8 +53,12 @@
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 
 ### 📊 GitHub Stats:
+<a href="https://github.com/darrentimotius/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/darrentimotius/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=darrentimotius&icon=0&color=0)](https://visitcount.itsvg.in)
