@@ -1,14 +1,14 @@
 <h1 align="center"> Hi 👋🏻, I'm Darren Timotius Raphael </br> 
 </h1>
 
-### 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently **studying at university** <br>
 🌱 I’m currently learning **Python**<br>
 💬 Ask me about **Node.js**<br>
 ⚡ Fun fact **I am an Audiophile**<br>
 
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
@@ -54,7 +54,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&card_height=195)<br>
 ![](https://github-readme-streak-stats.herokuapp.com?user=darrentimotius&theme=tokyonight&hide_border=true)
@@ -62,7 +62,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=darrentimotius&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=darrentimotius&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ![snake gif](https://github.com/darrentimotius/darrentimotius/blob/output/github-contribution-grid-snake-dark.svg)
