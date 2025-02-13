@@ -1,5 +1,6 @@
-<h1 align="center"> Hi 👋🏻, I'm Vishwa Gaurav </br> 
+<h1 align="center"> Hi 👋🏻, I'm Darren Timotius Raphael </br> 
 </h1>
+
 ### 💫 About Me:
 🔭 I’m currently **studying at university** <br>
 🌱 I’m currently learning **Python**<br>
