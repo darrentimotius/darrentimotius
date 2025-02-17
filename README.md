@@ -1,5 +1,7 @@
 <h1 align="center"> Hi 👋🏻, I'm Darren Timotius Raphael </br> 
 </h1>
+<h3 align="center"> BCA Scholarship Awardee Batch 21 </br>
+</h3> 
 <p align="center">
 <a href="https://linkedin.com/in/darrentimotius" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=0077B5" style="vertical-align:center" /></a>
 <a href="https://instagram.com/darrentimotius" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
