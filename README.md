@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋🏻, I'm Darren Timotius Raphael </br>
-<h3 align="center"> BCA Scholarship Awardee Batch 21 </br>
+<h3 align="center"> 🎖️ BCA Scholarship Awardee Batch 21 </br>
 </h3> 
 </h1>
 <p align="center">
