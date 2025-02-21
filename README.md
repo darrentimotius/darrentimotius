@@ -67,13 +67,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=darrentimotius&theme=tokyonight&hide_border=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=darrentimotius&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=darrentimotius&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ![snake gif](https://github.com/darrentimotius/darrentimotius/blob/output/github-contribution-grid-snake-dark.svg)
 
+[![](https://visitcountpro.netlify.app/api?id=darrentimotius&label=Profile%20Views&color=6&icon=8&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
