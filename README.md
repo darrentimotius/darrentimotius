@@ -64,7 +64,7 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&card_height=195)</br>
-![](https://github-readme-streak-stats.herokuapp.com?user=darrentimotius&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=darrentimotius&theme=tokyonight&hide_border=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=darrentimotius&icon=0&color=0)](https://visitcount.itsvg.in)
