@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://qph.cf2.quoracdn.net/main-qimg-088682d8044bcd94dabed0d22e27c915">
+</div>
 <h1 align="center"> Hi 👋🏻, I'm Darren Timotius Raphael </br>
 <h3 align="center"> 🎖️ BCA Scholarship Awardee Batch 21 </br>
 </h3> 
