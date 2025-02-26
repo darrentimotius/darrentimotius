@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://qph.cf2.quoracdn.net/main-qimg-088682d8044bcd94dabed0d22e27c915">
-</div>
 <h1 align="center"> Hi 👋🏻, I'm Darren Timotius Raphael </br>
 <h3 align="center"> 🎖️ BCA Scholarship Awardee Batch 21 </br>
 </h3> 
@@ -67,7 +64,8 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&card_height=195)</br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=darrentimotius&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=darrentimotius&theme=tokyonight&hide_border=true)</br>
+[![](https://visitcountpro.netlify.app/api?id=darrentimotius&label=Profile%20Views&color=6&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
 ---
 
@@ -76,7 +74,9 @@
 
 ![snake gif](https://github.com/darrentimotius/darrentimotius/blob/output/github-contribution-grid-snake-dark.svg)
 
-[![](https://visitcountpro.netlify.app/api?id=darrentimotius&label=Profile%20Views&color=6&icon=8&pretty=true)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://qph.cf2.quoracdn.net/main-qimg-088682d8044bcd94dabed0d22e27c915">
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
