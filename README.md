@@ -11,7 +11,7 @@
 🔭 I’m currently **studying at university**</br>
 🌱 I’m currently learning **Python**</br>
 💬 Ask me anything about **JavaScript and its libraries**</br>
-⚡ Fun fact **I am an Audiophile**</br>
+🎧 Fun fact **I am an Audiophile**</br>
 
 
 ## 💻 Tech Stack:
