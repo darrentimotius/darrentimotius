@@ -53,8 +53,8 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&card_height=195)</br>
+![](https://readme-stats.darrentimotius.me/api?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![](https://readme-stats.darrentimotius.me/api/top-langs/?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&card_height=195)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=darrentimotius&theme=tokyonight&hide_border=true)</br>
 [![](https://visitcountpro.netlify.app/api?id=darrentimotius&label=Profile%20Views&color=6&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
