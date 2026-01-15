@@ -1,6 +1,9 @@
-<h1 align="center"> Hi 👋🏻, I'm Darren Timotius Raphael </br>
-<h3 align="center"> 🎖️ BCA Scholarship Awardee Batch 21 </br>
-</h3> 
+<!-- <h1 align="center"> Hi 👋🏻, I'm Darren Timotius Raphael </br> -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=28&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Darren+Timotius+Raphael;%F0%9F%8E%96%EF%B8%8F+BCA+Scholarship+Awardee+Batch+21+" alt="Typing SVG" /></a>
+</p>
+<!-- <h3 align="center"> 🎖️ BCA Scholarship Awardee Batch 21 </br>
+</h3>  -->
 </h1>
 <p align="center">
 <a href="https://linkedin.com/in/darrentimotius" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=0077B5" style="vertical-align:center" /></a>
