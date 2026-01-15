@@ -61,7 +61,8 @@
 ![](https://readme-stats.darrentimotius.me/api?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 ![](https://readme-stats.darrentimotius.me/api/top-langs/?username=darrentimotius&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&card_height=195)</br>
 ![](https://github-readme-streak-stats-vijaypur.vercel.app/?user=darrentimotius&theme=tokyonight&hide_border=true)</br>
-[![](https://visitcountpro.netlify.app/api?id=darrentimotius&label=Profile%20Views&color=6&icon=8&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=darrentimotius&style=for-the-badge&color=blueviolet&base=1000)
+
 
 ---
 
