@@ -70,7 +70,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=darrentimotius&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![Trophy](./profile/trophy.svg)
 
 ![snake gif](https://github.com/darrentimotius/darrentimotius/blob/output/github-contribution-grid-snake-dark.svg)
 
