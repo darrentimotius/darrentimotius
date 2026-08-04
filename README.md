@@ -1,6 +1,6 @@
 <!-- <h1 align="center"> Hi 👋🏻, I'm Darren Timotius Raphael </br> -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=28&lines=Hi+👋🏻,+I'm+Darren+Timotius+Raphael;%F0%9F%8E%96%EF%B8%8F+BCA+Scholarship+Awardee+Batch+21+" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=28&lines=Hi+👋,+I'm+Darren+Timotius+Raphael;%F0%9F%8E%96%EF%B8%8F+BCA+Scholarship+Awardee+Batch+21+" alt="Typing Animation" />
 </p>
 <!-- <h3 align="center"> 🎖️ BCA Scholarship Awardee Batch 21 </br>
 </h3>  -->
